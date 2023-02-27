@@ -2,6 +2,7 @@
 Semester Registration is a web application that allows students to add the modules they want to take for a single semester, record the time they spent studying a particular module &amp; create study reminders for certain modules. Please Note: This is an individual, academic project that was completed in 2021.  
 
 //REQUIREMENTS
+
 --Minimum
 OS (Operating System): Windows 10
 IDE/Coding Platform: Visual Studio 2019 (Community Edition) and above.
