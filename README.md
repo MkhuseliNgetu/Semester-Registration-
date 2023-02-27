@@ -10,7 +10,7 @@ Storage: 20MB\
 RAM: 6GB\
 Database Management Software: Microsoft SQL Server Management Studio 18\
 Database Software: Microsoft SQL Server 2019.\
-A working keyboard with the F1 to F12 keys still working.*\
+A working keyboard with the F1 to F12 keys still working.\*
 
 --Recommended\
 *OS (Operating System): Windows 10\
@@ -19,7 +19,7 @@ Storage: More than 20 MB\
 RAM: 8GB+\
 Database Management Software: Microsoft SQL Server Management Studio 18.\
 Database Software: Microsoft SQL Server 2019.\
-A fully functional keyboard with the F1 to F12 keys still functional.*\
+A fully functional keyboard with the F1 to F12 keys still functional.\*
 
 --How to complie 
 
