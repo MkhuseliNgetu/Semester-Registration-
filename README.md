@@ -27,24 +27,7 @@ A fully functional keyboard with the F1 to F12 keys still functional.*
 2. Select the ‘Open a project or solution’ option.
 3. Look for the submission folder named Semester Registration and select the file named Semester Registration.sln.
 4. Wait for the program to load.
-5. After the program has loaded, press CTRL+Alt+S at the same time on your keyboard.
-6. Right click on the text ‘Data Connections’ and select the ’Add Connection…’ option.
-
-PLEASE NOTE: If you are asked for a data source, select ‘Microsoft SQL Server’ and press the ‘OK’ button. If you already
-has a data source set, change it by clicking the change button, select ‘Microsoft SQL Server’ and press the ‘OK’.
-
-7. In the server name entry box, under the text ‘Server name:’, enter the name of your computer.
-8. In the select or enter a database name entry box, under the text ‘Select or enter a database name:’, enter the name
-‘ModuleStorage’.
-9. Click the ‘OK’ button.
-10. Press Alt+Enter at the same time on your keyboard, after you have clicked the ‘OK’ button.
-11. Go down to the ‘Connection String‘ tab, under the text ‘Connection’, and right click twice next to the ‘Connection String’ tab. Select
-the ‘Select All’ option and press CTRL+C at the same time on your keyboard.
-12. Left click twice on the file named ‘Ngetu20108278ClassLibrary.cs’, under the folder named ‘Models’.
-13. Look for the ‘TheDatabases’ class and find the variable named ‘LiveConnectionToDatabase’.
-14. In-between the quotation marks , press CTRL+V at the same time on your keyboard.
-15. Press CTRL+S at the same time on your keyboard.
-16. Press CTRL+B at the same time on your keyboard, to compile the program.
+5. Press CTRL+B at the same time on your keyboard, to compile the program.
 
 --How to run
 
