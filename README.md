@@ -4,13 +4,13 @@ Semester Registration is a web application that allows students to add the modul
 //REQUIREMENTS
 
 --Minimum
-*OS (Operating System): Windows 10
-IDE/Coding Platform: Visual Studio 2019 (Community Edition) and above.
-Storage: 20MB
-RAM: 6GB
-Database Management Software: Microsoft SQL Server Management Studio 18
-Database Software: Microsoft SQL Server 2019.
-A working keyboard with the F1 to F12 keys still working.*
+*--OS (Operating System): Windows 10
+--IDE/Coding Platform: Visual Studio 2019 (Community Edition) and above.
+--Storage: 20MB
+--RAM: 6GB
+--Database Management Software: Microsoft SQL Server Management Studio 18
+--Database Software: Microsoft SQL Server 2019.
+--A working keyboard with the F1 to F12 keys still working.*
 
 --Recommended
 *OS (Operating System): Windows 10
