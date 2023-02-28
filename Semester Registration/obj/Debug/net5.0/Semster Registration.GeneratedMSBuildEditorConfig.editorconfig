@@ -1,0 +1,11 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = PROG6212_POE_Mkhuseli_Ngetu_20108278__V4_
+build_property.ProjectDir = C:\Users\BraJo\Source\Repos\MkhuseliNgetu\Semester-Registration-\Semester Registration\

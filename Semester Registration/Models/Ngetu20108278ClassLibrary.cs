@@ -140,7 +140,7 @@ namespace Ngetu20108278Library
 
 
 
-        public string LiveConnectionToDatabase = "";
+        public string LiveConnectionToDatabase = "Server=tcp:ngetumain.database.windows.net,1433;Initial Catalog=ModuleStorage;Persist Security Info=False;User ID=MKNgetu;Password=WtiJXaqAZH8y5re;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;";
 
 
         private static string[] DataEntries = new string[4];

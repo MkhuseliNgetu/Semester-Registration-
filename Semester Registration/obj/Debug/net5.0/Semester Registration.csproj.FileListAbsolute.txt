@@ -1,0 +1,35 @@
+C:\Users\BraJo\Source\Repos\MkhuseliNgetu\Semester-Registration-\Semester Registration\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\BraJo\Source\Repos\MkhuseliNgetu\Semester-Registration-\Semester Registration\bin\Debug\net5.0\appsettings.json
+C:\Users\BraJo\Source\Repos\MkhuseliNgetu\Semester-Registration-\Semester Registration\bin\Debug\net5.0\Semester Registration.exe
+C:\Users\BraJo\Source\Repos\MkhuseliNgetu\Semester-Registration-\Semester Registration\bin\Debug\net5.0\Semester Registration.deps.json
+C:\Users\BraJo\Source\Repos\MkhuseliNgetu\Semester-Registration-\Semester Registration\bin\Debug\net5.0\Semester Registration.runtimeconfig.json
+C:\Users\BraJo\Source\Repos\MkhuseliNgetu\Semester-Registration-\Semester Registration\bin\Debug\net5.0\Semester Registration.runtimeconfig.dev.json
+C:\Users\BraJo\Source\Repos\MkhuseliNgetu\Semester-Registration-\Semester Registration\bin\Debug\net5.0\Semester Registration.dll
+C:\Users\BraJo\Source\Repos\MkhuseliNgetu\Semester-Registration-\Semester Registration\bin\Debug\net5.0\Semester Registration.pdb
+C:\Users\BraJo\Source\Repos\MkhuseliNgetu\Semester-Registration-\Semester Registration\bin\Debug\net5.0\RestSharp.dll
+C:\Users\BraJo\Source\Repos\MkhuseliNgetu\Semester-Registration-\Semester Registration\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\BraJo\Source\Repos\MkhuseliNgetu\Semester-Registration-\Semester Registration\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\BraJo\Source\Repos\MkhuseliNgetu\Semester-Registration-\Semester Registration\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\BraJo\Source\Repos\MkhuseliNgetu\Semester-Registration-\Semester Registration\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\BraJo\Source\Repos\MkhuseliNgetu\Semester-Registration-\Semester Registration\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\BraJo\Source\Repos\MkhuseliNgetu\Semester-Registration-\Semester Registration\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\BraJo\Source\Repos\MkhuseliNgetu\Semester-Registration-\Semester Registration\obj\Debug\net5.0\Semester Registration.csproj.AssemblyReference.cache
+C:\Users\BraJo\Source\Repos\MkhuseliNgetu\Semester-Registration-\Semester Registration\obj\Debug\net5.0\Semester Registration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BraJo\Source\Repos\MkhuseliNgetu\Semester-Registration-\Semester Registration\obj\Debug\net5.0\Semester Registration.AssemblyInfoInputs.cache
+C:\Users\BraJo\Source\Repos\MkhuseliNgetu\Semester-Registration-\Semester Registration\obj\Debug\net5.0\Semester Registration.AssemblyInfo.cs
+C:\Users\BraJo\Source\Repos\MkhuseliNgetu\Semester-Registration-\Semester Registration\obj\Debug\net5.0\Semester Registration.csproj.CoreCompileInputs.cache
+C:\Users\BraJo\Source\Repos\MkhuseliNgetu\Semester-Registration-\Semester Registration\obj\Debug\net5.0\Semester Registration.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\BraJo\Source\Repos\MkhuseliNgetu\Semester-Registration-\Semester Registration\obj\Debug\net5.0\scopedcss\bundle\Semester Registration.styles.css
+C:\Users\BraJo\Source\Repos\MkhuseliNgetu\Semester-Registration-\Semester Registration\obj\Debug\net5.0\staticwebassets\Semester Registration.StaticWebAssets.Manifest.cache
+C:\Users\BraJo\Source\Repos\MkhuseliNgetu\Semester-Registration-\Semester Registration\obj\Debug\net5.0\staticwebassets\Semester Registration.StaticWebAssets.Pack.cache
+C:\Users\BraJo\Source\Repos\MkhuseliNgetu\Semester-Registration-\Semester Registration\obj\Debug\net5.0\staticwebassets\msbuild.Semester Registration.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\BraJo\Source\Repos\MkhuseliNgetu\Semester-Registration-\Semester Registration\obj\Debug\net5.0\staticwebassets\msbuild.build.Semester Registration.props
+C:\Users\BraJo\Source\Repos\MkhuseliNgetu\Semester-Registration-\Semester Registration\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Semester Registration.props
+C:\Users\BraJo\Source\Repos\MkhuseliNgetu\Semester-Registration-\Semester Registration\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Semester Registration.props
+C:\Users\BraJo\Source\Repos\MkhuseliNgetu\Semester-Registration-\Semester Registration\obj\Debug\net5.0\Semester Registration.RazorTargetAssemblyInfo.cache
+C:\Users\BraJo\Source\Repos\MkhuseliNgetu\Semester-Registration-\Semester Registration\obj\Debug\net5.0\Semester Registration.csproj.CopyComplete
+C:\Users\BraJo\Source\Repos\MkhuseliNgetu\Semester-Registration-\Semester Registration\obj\Debug\net5.0\Semester Registration.dll
+C:\Users\BraJo\Source\Repos\MkhuseliNgetu\Semester-Registration-\Semester Registration\obj\Debug\net5.0\refint\Semester Registration.dll
+C:\Users\BraJo\Source\Repos\MkhuseliNgetu\Semester-Registration-\Semester Registration\obj\Debug\net5.0\Semester Registration.pdb
+C:\Users\BraJo\Source\Repos\MkhuseliNgetu\Semester-Registration-\Semester Registration\obj\Debug\net5.0\Semester Registration.genruntimeconfig.cache
+C:\Users\BraJo\Source\Repos\MkhuseliNgetu\Semester-Registration-\Semester Registration\obj\Debug\net5.0\ref\Semester Registration.dll
